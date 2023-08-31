@@ -1,0 +1,19 @@
+body{
+    background: lightblue;
+}
+
+#score{
+    font-size: 25px;
+    float:left;
+    margin-left: 15px;
+}
+
+#timer{
+    font-size: 25px;
+    float:right;
+    margin-right: 15px;
+}
+
+#stbd{
+    color: crimson;
+}
